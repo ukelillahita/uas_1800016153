@@ -1,0 +1,25 @@
+.container {
+  padding: 20px 250px 50px 200px;
+}
+
+.btn-tambah {
+  margin-bottom: 30px;
+}
+
+.btn-edit,
+.logout,
+.btn-delete {
+  margin-right: 15px;
+}
+
+.spacer {
+  flex-grow: 1;
+}
+
+.posisi {
+  margin: 0px 40px 50px 10px
+}
+
+.posisi1 {
+  margin-bottom: 35px;
+}
